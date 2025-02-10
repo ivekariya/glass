@@ -205,6 +205,22 @@ p {
     margin: 0;
     padding: 18px 0;
 }
+.header-main .header-main-inner .header-top .header-top-inner .right-block .info .ant-btn:hover {
+	background-color: transparent !important;
+	color: #fd8a0f !important;
+	transition: .5s !important;
+}
+.header-main .header-main-inner .header-top .header-top-inner .right-block .info .ant-btn {
+	background-color: transparent !important;
+	border: 0 !important;
+	box-shadow: none !important;
+	color: #000000 !important;
+	font-weight: 500 !important;
+	font-size: 12px !important;
+	line-height: 24px !important;
+	letter-spacing: 0.24px !important;
+	padding: 0 !important;
+}
 
 .header-main .header-main-inner .header-top .header-top-inner .right-block a:hover .lnk {
     color: #fd8a0f;
