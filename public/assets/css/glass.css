@@ -210,7 +210,7 @@ p {
 	color: #fd8a0f !important;
 	transition: .5s !important;
 }
-.header-main .header-main-inner .header-top .header-top-inner .right-block .info .ant-btn {
+.header-main .info .ant-btn {
 	background-color: transparent !important;
 	border: 0 !important;
 	box-shadow: none !important;
